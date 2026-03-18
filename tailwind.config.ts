@@ -64,6 +64,7 @@ export default {
           "link-hover": "hsl(var(--nav-link-hover))",
           "link-active": "hsl(var(--nav-link-active))",
         },
+      },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
